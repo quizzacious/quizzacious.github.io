@@ -6,14 +6,15 @@ Quizzacious is a program/app that allows students to make and organize quizzes a
 
 ## User Guide
 ### Landing Page
-![](images/landing-page.png)
+![](images/landing1.jpg)
+![](images/landing2.jpg)
 ### Sign In/Up
-![](images/sign-in.png)
+![](images/sign-in.jpg)
 ### Make Quiz
-![](images/make1.png)
-![](images/make2.png)
+![](images/make1.jpg)
+![](images/make2.jpg)
 ### Take Quiz
-![](images/take1.png)
-![](images/take2.png)
+![](images/take1.jpg)
+![](images/take2.jpg)
 ### Profile
-![](images/profile.png)
+![](images/profile.jpg)
