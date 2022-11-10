@@ -1,19 +1,18 @@
 # Quizzacious
 
-Overview. Summarizes what the system does and what makes it special and different from other related applications.
+## Overview
 
-User Guide. Provide at least one screen shot of every page. This section should provide enough detail for a user to get up and running with your system (you can provide further help within the application itself).
+Quizzacious is a program/app that allows students to make and organize quizzes and also send them to each other.
 
-Community Feedback. Provides information obtained from users about the system.
+## User Guide
+### Landing Page
 
-Developer Guide. How to download, install, and run the system locally, as well as how to deploy it.
+### Sign In/Up
 
-Development history. Explains the trajectory of development of the system: what was accomplished during each milestone. See the BowFolios system for details.
+### Make Quiz
 
-Contact Us. Explains who the developers of the system are and how to get in touch with them if you have comments or questions.
+### Take Quiz
 
-Quizzacious Github Page
+### Profile
 
-https://github.com/orgs/quizzacious/repositories
-
-
+### Admin
