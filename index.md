@@ -33,7 +33,7 @@ User can see their profile that they set from the registration page and it also 
 User can sign out from the navbar dropdown and it will also have go back to Home Page button that will take the user back to intro page.
 ![](images/sign-out.PNG)
 ## Admin
-
+Allows admin-users to see quizzes and who made them from there emails which is important for following rules and guidelines of the site.
 ![](images/admin.PNG)
 
 ## Development History
