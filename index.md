@@ -21,10 +21,10 @@ Quizzacious allows users to enter their site credentials such as their username 
 Allows the users to register and create a new account with the following fields email and passwords that want to use.
 ![](images/register.PNG)
 ### Make Quiz
-![](images/make1.PNG)
+![](images/makequiz.PNG)
 ### Take Quiz
 This allows the users to take their own quizzes with certain fields tied to item that they created in Make-A-Quiz section. It has the following fields such as Quiz Name, Score, Rating, and eventually a start-this-quiz.
-![](images/take1.PNG)
+![](images/takequiz.PNG)
 ### Profile
 User can see their profile that they set from the registration page and it also allows users to go through other multiple tabs such as achievements, ratings, and scores(Not implemented just yet!).
 ![](images/profile.PNG)
