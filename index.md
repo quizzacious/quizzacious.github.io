@@ -52,6 +52,7 @@ Secondly, visit the [Quizzacious github page](https://github.com/quizzacious/qui
 Alternatively, you can download the sources as a zip file or make a fork of the repo. However you do it, download a copy of the repo to your local computer.
 
 Thirdly, cd into quizzacious/app and run the command `meteor npm install` in your terminal to install the libraries
+
 Lastly, run the command `meteor npm run start` in your terminal to run the system.
 
 If you followed the instructions correctly, the application will appear on your browser at [http://localhost:3000](http://localhost:3000)
