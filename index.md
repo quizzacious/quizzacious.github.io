@@ -5,7 +5,7 @@
 The best way to get good at something is practice, and practice is always easier when you collaborate. Quizzacious is a program/app that allows students to make and organize quizzes and also send them to each other to help study for any subject.
 
 ## Deployment
-[See our program here](http://164.92.109.35/intro)
+[See our program here](http://quizzacious.xyz/ )
 
 ## User Guide
 ### Landing Page(Intro Page/Landing Page)
@@ -46,12 +46,23 @@ Allows admin-users to see quizzes and who made them from there emails which is i
 This section will provide detailed instructions to download, install, run, and modify this code base as a basis for their own development tasks.
 ### Installation
 Firstly, [install Meteor](https://www.meteor.com/developers/install)
-Then visit the [Quizzacious github page](https://github.com/quizzacious/quizzacious)
+
+Secondly, visit the [Quizzacious github page](https://github.com/quizzacious/quizzacious) and clone the repository.
+
+Alternatively, you can download the sources as a zip file or make a fork of the repo. However you do it, download a copy of the repo to your local computer.
+
+Thirdly, cd into quizzacious/app and run the command `meteor npm install` in your terminal to install the libraries
+Lastly, run the command `meteor npm run start` in your terminal to run the system.
+
+If you followed the instructions correctly, the application will appear on your browser at [http://localhost:3000](http://localhost:3000)
+
 ## Development History
 ### M1
 [Milestone 1 Project](https://github.com/orgs/quizzacious/projects/1)
 ### M2
 [Milestone 2 Project](https://github.com/orgs/quizzacious/projects/2)
+### M3
+[Milestone 3 Project](https://github.com/orgs/quizzacious/projects/4)
 
 ## Contact Us
 [Our Organization](https://github.com/quizzacious)
