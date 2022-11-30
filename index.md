@@ -22,16 +22,16 @@ Allows the users to register and create a new account with the following fields 
 ![](images/Register.PNG)
 ### Make Quiz
 Users will be allowed to create their own personal quiz. This quiz will be available for everyone to take including themselves. However, it will only be editable from the user or admin. The user must first fill out the form for the title, subject, description and date. The owner field will be the user's email by default. By clicking "Create Questions" the user will be taken to a page to make questions for their quiz.
-![](images/MakePage.png)
+![](images/MakePage.PNG)
 ### Make Questions
 Users are able to fill out the form with their question and 4 potential answers and select which answer is correct in 'Answer Final'.
-![](images/MakeQuestions.png)
+![](images/MakeQuestions.PNG)
 ### Take Quiz
 This allows the users to take their own quizzes with certain fields tied to item that they created in Make-A-Quiz section. It has the following fields such as Quiz Name, Rating, and eventually a start-this-quiz.
-![](images/TakeQuizPage.png)
+![](images/TakeQuizPage.PNG)
 ## Quiz Page
 This shows the user a brief overview of the quiz they plan on taking. It has the following fields such as Quiz Name, Rating, and 'Begin'.
-![](images/QuizPage.png)
+![](images/QuizPage.PNG)
 ### Profile
 User can see their profile that they set from the registration page and it also allows users to go through other multiple tabs such as Home Page, Take a Quiz, Make a Quiz, and Your Quizzes.
 ![](images/ProfilePage.PNG)
