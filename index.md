@@ -80,7 +80,7 @@ Allows admin-users to see quizzes and who made them from there emails which is i
 
 "The website is very straight forward. I'm unsure what ratings are. The save button and next button should have the same functionality. Its amazing that I can see other people's quizzes too. Profiles are a nice thing to see by clicking on other user links. There is no done button at the end of the quiz and dont know which questions I got right/wrong." - David Kimura
 
-"The colors on the home page make my eyes hurt." - Odin Hall 
+"The colors on the home page make my eyes hurt. It's easy to use but feels cheap. It feels like a Scratch game. The submit button when taking a quiz should take you to the next question." - Odin Hall 
 
 ## Developer Guide
 This section will provide detailed instructions to download, install, run, and modify this code base as a basis for their own development tasks.
