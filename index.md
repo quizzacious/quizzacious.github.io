@@ -41,7 +41,7 @@ This shows the user a brief overview of the quiz they plan on taking. It has the
 ### New Profile
 ![](images/NewProfile.PNG)
 The User can use the button profile which allows the user to create a profile card using a form. This simply requires the user to enter their name, address, image, major, and description.
-![](images/CreateProfileForm.PNG)
+![](images/CreateProfileForm.png)
 ### Quiz Page
 This shows the user a brief overview of the quiz they plan on taking. It displays the title, subject, description, and the user's previous score. Clicking 'Begin' will start the quiz proper.
 ![](images/QuizPage.PNG)
