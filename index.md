@@ -23,6 +23,9 @@ Allows the users to register and create a new account with the following fields 
 ### Make Quiz
 Users will be allowed to create their own personal quiz. This quiz will be available for everyone to take including themselves. However, it will only be editable from the user or admin. The user must first fill out the form for the title, subject, description and date. The owner field will be the user's email by default. By clicking "Create Questions" the user will be taken to a page to make questions for their quiz.
 ![](images/MakePage.PNG)
+### This Quiz
+This shows the user a brief overview of the quiz they plan on creating questions for. It displays the title, subject, and description. Clicking 'Make Questions' will begin the question making process
+.![](images/ThisQuiz.PNG)
 ### Make Questions
 Users are able to fill out the form with their question and 4 potential answers and select which answer is correct in 'Answer Final'.
 ![](images/MakeQuestions.PNG)
@@ -42,9 +45,24 @@ This shows the user a brief overview of the quiz they plan on taking. It has the
 ![](images/NewProfile.PNG)
 The User can use the button profile which allows the user to create a profile card using a form. This simply requires the user to enter their name, address, image, major, and description.
 ![](images/CreateProfileForm.PNG)
+### Quiz Page
+This shows the user a brief overview of the quiz they plan on taking. It displays the title, subject, description, and the user's previous score. Clicking 'Begin' will start the quiz proper.
+![](images/QuizPage.PNG)
+### Taking Quiz
+This is where the user is able to answer the questions in the quiz. The current question will be displayed with the 4 possible answers. The user will be able to choose and submit the answer they believe to be correct. The user can then move on to the next question or return to the previous. 'Next' updates to 'Finish' upon reaching the last question and will return the user to the Quiz Page.
+![](images/TakingQuiz.PNG)
+## Edit Quiz
+If the user makes a mistake in the title, subject, or description they are allowed to revise it.
+![](images/EditQuiz.PNG)
+## Filter
+Users wanting to take a quiz can filter out quizzes based on the subject. This will allow the user to narrow down on a single subject instead of scrolling through many quizzes to find the one they want to take.
+![](images/Filter.PNG)
 ### Profile
 User can see their profile that they set from the registration page and it also allows users to go through other multiple tabs such as Home Page, Take a Quiz, Make a Quiz, and Your Quizzes.
 ![](images/ProfilePage.PNG)
+### Edit Profile
+This allows the user to edit the profile that either they created or already exists. User has the capabilities to change all the fields that are listed.
+![](images/EditProfile.PNG)
 ### Sign Out
 User can sign out from the navbar dropdown and it will also have go back to Home Page button that will take the user back to intro page.
 ![](images/SignOut.PNG)
