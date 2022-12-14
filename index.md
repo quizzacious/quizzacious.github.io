@@ -55,7 +55,7 @@ This page displays the user's total score, which is based on the number of corre
 If the user makes a mistake in the title, subject, or description they are allowed to revise it.
 ![](images/EditQuiz.PNG)
 ## Filter
-Users wanting to take a quiz can filter out quizzes based on the subject. This will allow the user to narrow down on a single subject instead of scrolling through many quizzes to find the one they want to take.
+Users wanting to take a quiz can filter out quizzes based on the subject. This will allow the user to narrow down on a single subject instead of scrolling through many quizzes to find the one they want to take..
 ![](images/Filter.PNG)
 ### Profile
 User can see their profile that they set from the registration page and it also allows users to go through other multiple tabs such as Home Page, Take a Quiz, Make a Quiz, and Your Quizzes.
