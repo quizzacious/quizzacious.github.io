@@ -38,15 +38,34 @@ This shows the user a brief overview of the quiz they plan on taking. It display
 ### Taking Quiz
 This is where the user is able to answer the questions in the quiz. The current question will be displayed with the 4 possible answers. The user will be able to choose and submit the answer they believe to be correct. The user can then move on to the next question or return to the previous. 'Next' updates to 'Finish' upon reaching the last question and will return the user to the Quiz Page.
 ![](images/TakingQuiz.PNG)
+## Edit Quiz
+If the user makes a mistake in the title, subject, or description they are allowed to revise it.
+![](images/EditQuiz.PNG)
+## Filter
+Users wanting to take a quiz can filter out quizzes based on the subject. This will allow the user to narrow down on a single subject instead of scrolling through many quizzes to find the one they want to take.
+![](images/Filter.PNG)
 ### Profile
 User can see their profile that they set from the registration page and it also allows users to go through other multiple tabs such as Home Page, Take a Quiz, Make a Quiz, and Your Quizzes.
 ![](images/ProfilePage.PNG)
+### Edit Profile
+This allows the user to edit the profile that either they created or already exists. User has the capabilities to change all the fields that are listed.
+![](images/EditProfile.PNG)
 ### Sign Out
 User can sign out from the navbar dropdown and it will also have go back to Home Page button that will take the user back to intro page.
 ![](images/SignOut.PNG)
 ### Admin
 Allows admin-users to see quizzes and who made them from there emails which is important for following rules and guidelines of the site. Admin-users also have access to edit the quizzes or delete them with the trash button.
 ![](images/AdminPage.PNG)
+
+## Community Feedback
+
+"As much as possible, present all information on the page without needing to scroll. Default text instructions on 'Edit Profile' page so users know what to fill the information with (e.g for Image: paste a url to your designated image). Hitting back after going to the profile page leads to a blank page unless you reload." - Raymond Quinones
+
+"Good and colorful design but the text font can be difficult to read. There are some troubles with making a quiz, and making a profile should have optional fields. After finishing taking a quiz it keep going back to the begin this quiz, it should instead go back to all the different quizzes instead." - Rufina Wasserman
+
+"When taking someone else's quizzes, there are slight confusing issues with how the answer selection is set up. I feel that it shouldn't have a green check mark next to it. As it can be confusing to the participant on whether that is their answer they are selecting and whether or not it is automatically graded and states if its correct or not. Other than that, the format and each individual page is clean and legible. I enjoy the aesthetic to the site. There are minor changes that can be easily resolved or changed. So great job on the website!" - Dylan Henke
+
+"The website is very straight forward. I'm unsure what ratings are. The save button and next button should have the same functionality. Its amazing that I can see other people's quizzes too. Profiles are a nice thing to see by clicking on other user links. There is no done button at the end of the quiz and dont know which questions I got right/wrong." - David Kimura
 
 ## Developer Guide
 This section will provide detailed instructions to download, install, run, and modify this code base as a basis for their own development tasks.
