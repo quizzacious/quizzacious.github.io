@@ -32,9 +32,18 @@ This allows the users to take their own quizzes with certain fields tied to item
 ## Quiz Page
 This shows the user a brief overview of the quiz they plan on taking. It has the following fields such as Quiz Name, Rating, and 'Begin'.
 ![](images/QuizPage.PNG)
+## Edit Quiz
+If the user makes a mistake in the title, subject, or description they are allowed to revise it.
+![](images/EditQuiz.PNG)
+## Filter
+Users wanting to take a quiz can filter out quizzes based on the subject. This will allow the user to narrow down on a single subject instead of scrolling through many quizzes to find the one they want to take.
+![](images/Filter.PNG)
 ### Profile
 User can see their profile that they set from the registration page and it also allows users to go through other multiple tabs such as Home Page, Take a Quiz, Make a Quiz, and Your Quizzes.
 ![](images/ProfilePage.PNG)
+### Edit Profile
+This allows the user to edit the profile that either they created or already exists. User has the capabilities to change all the fields that are listed.
+![](images/EditProfile.PNG)
 ### Sign Out
 User can sign out from the navbar dropdown and it will also have go back to Home Page button that will take the user back to intro page.
 ![](images/SignOut.PNG)
