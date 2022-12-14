@@ -23,9 +23,6 @@ Allows the users to register and create a new account with the following fields 
 ### Make Quiz
 Users will be allowed to create their own personal quiz. This quiz will be available for everyone to take including themselves. However, it will only be editable from the user or admin. The user must first fill out the form for the title, subject, description and date. The owner field will be the user's email by default. By clicking "Create Questions" the user will be taken to a page to make questions for their quiz.
 ![](images/MakePage.PNG)
-### This Quiz
-This shows the user a brief overview of the quiz they plan on creating questions for. It displays the title, subject, and description. Clicking 'Make Questions' will begin the question making process
-.![](images/ThisQuiz.PNG)
 ### Make Questions
 Users are able to fill out the form with their question and 4 potential answers and select which answer is correct in 'Answer Final'.
 ![](images/MakeQuestions.PNG)
@@ -51,6 +48,9 @@ This shows the user a brief overview of the quiz they plan on taking. It display
 ### Taking Quiz
 This is where the user is able to answer the questions in the quiz. The current question will be displayed with the 4 possible answers. The user will be able to choose and submit the answer they believe to be correct. The user can then move on to the next question or return to the previous. 'Next' updates to 'Finish' upon reaching the last question and will return the user to the Quiz Page.
 ![](images/TakingQuiz.PNG)
+### QuizPage/Score
+This page displays the user's total score, which is based on the number of correct answers, after taking the quiz and displays the option to 'Begin' the quiz again.
+![](images/QuizPageScore.PNG)
 ## Edit Quiz
 If the user makes a mistake in the title, subject, or description they are allowed to revise it.
 ![](images/EditQuiz.PNG)
