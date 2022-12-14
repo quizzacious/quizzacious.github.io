@@ -26,9 +26,22 @@ Users will be allowed to create their own personal quiz. This quiz will be avail
 ### Make Questions
 Users are able to fill out the form with their question and 4 potential answers and select which answer is correct in 'Answer Final'.
 ![](images/MakeQuestions.PNG)
+### My Quizzes
+The Users have the ability to edit the quiz and make questions. As well as delete them. This practically powerful tool that allows the user to have customability in their quizzes. It essentially creates and object that can allow the user to edit and such. Also this is also available in the profile section with the button "Your Quizzes".
+![](images/MyQuizzes.PNG)
 ### Take Quiz
 This allows the users to take their own quizzes with certain fields tied to item that they created in Make-A-Quiz section. It has the following fields such as Quiz Name, Rating, and eventually a start-this-quiz.
 ![](images/TakeQuizPage.PNG)
+### Other Profiles
+The user has the ability to to click on the blue link on the creator. This allows the user to see other peoples profiles and give some form clarity. The user can see all the attributes that the other users have and it tries to mimic social media platforms sharing powers and such. 
+![](images/OtherProfile.PNG)
+## Quiz Page
+This shows the user a brief overview of the quiz they plan on taking. It has the following fields such as Quiz Name, Rating, and 'Begin'.
+![](images/QuizPage.PNG)
+### New Profile
+![](images/NewProfile.PNG)
+The User can use the button profile which allows the user to create a profile card using a form. This simply requires the user to enter their name, address, image, major, and description.
+![](images/CreateProfileForm.PNG)
 ### Quiz Page
 This shows the user a brief overview of the quiz they plan on taking. It displays the title, subject, description, and the user's previous score. Clicking 'Begin' will start the quiz proper.
 ![](images/QuizPage.PNG)
